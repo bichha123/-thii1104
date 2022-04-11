@@ -9,4 +9,7 @@ const CONFIG = {
     desc: 'Vài bữa rảnh đi ăn với Hà và Ly nhó',
     btnYes: 'Có ',
     btnNo: 'Không nha :3',
+    question:'Nớ mà không đi là tụi bạn dỗi lắm ó 😢',
+    reply: 'chắc chắn là đi rùi 😘',
+    mess: 'Hihi bạn biết mà. Mãi iu bạn Thi <3'
 }
