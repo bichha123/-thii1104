@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "HI BẠN CUTE <3",
+    titleWeb: "hibancute",
     introTitle: 'thii1104',
     introDesc: `Hôm nay là 11/04/2022 nè
     Là sinh nhật của một bạn rất cute 😚`,
